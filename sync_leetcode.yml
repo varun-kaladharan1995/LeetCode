@@ -1,21 +1,30 @@
-name: Sync Leetcode
+name: Sync LeetCode
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 8 * * 6"
+    - cron: '0 8 * * 6'  # Weekly on Saturday at 8:00 AM UTC
 
 jobs:
-  build:
+  sync:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Sync
-        uses: joshcai/leetcode-sync@v1.7
-        with:
-          github-token: ${{ github.token }}
-          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: my-folder
-          verbose: true
-          commit-header: "[LeetCode Sync]"
+    - uses: actions/checkout@v2
+
+    - name: Sync LeetCode
+      uses: joshcai/leetcode-sync@v1.7
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+        leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+        destination-folder: 'leetcode'
+        verbose: true  # Enable verbose logging
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Sync LeetCode submissions" || echo "No changes to commit"
+        git push
