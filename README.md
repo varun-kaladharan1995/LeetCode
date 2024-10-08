@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
