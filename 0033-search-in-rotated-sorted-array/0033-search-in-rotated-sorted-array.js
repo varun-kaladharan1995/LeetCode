@@ -6,7 +6,6 @@
 var search = function(nums, target) {
 
     const findIndex = (start, end, arr) => {   
-        if(arr.length === 1) return 0;
         while(start<=end){ 
             let mid = Math.floor(start + (end - start)/2); 
             if(arr[mid] > arr[mid + 1]) return mid;
@@ -17,7 +16,6 @@ var search = function(nums, target) {
     }
 
     const binarySearch = (i, j, arr, k) => {
-        if(arr.length === 1 && arr[0] === k) return 0
         while(i <= j){
             let mid = Math.floor(i + (j - i)/2);
             if(arr[mid] === k) return mid;
