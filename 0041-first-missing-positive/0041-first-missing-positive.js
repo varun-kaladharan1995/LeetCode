@@ -12,10 +12,10 @@ var firstMissingPositive = function(nums) {
 
     for(let i=0; i<N; i++){
         let val = Math.abs(nums[i]);
-        // if(1 <= val && val<=N){
+        if(1 <= val && val<=N){
             if(nums[val - 1] > 0) nums[val - 1] = -1*nums[val - 1];
             else if(nums[val - 1] === 0) nums[val - 1] = -1*(N+1);
-        // }
+        }
     }
 
     for(let i=1; i<=N; i++){
