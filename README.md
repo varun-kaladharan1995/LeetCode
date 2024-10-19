@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0496-next-greater-element-i) |
