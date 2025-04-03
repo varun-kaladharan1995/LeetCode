@@ -9,11 +9,9 @@ var sortColors = function(nums) {
 
     while(m<=h) {
         if(nums[m] === 0) {
-            [nums[l], nums[m]] = [nums[m], nums[l]];
-            l++; m++;
+            [nums[l++], nums[m++]] = [nums[m], nums[l]];
         } else if (nums[m] === 2) {
-            [nums[m], nums[h]] = [nums[h], nums[m]]; 
-            h--;
+            [nums[m], nums[h--]] = [nums[h], nums[m]]; 
         } else {
             m++;
         }
