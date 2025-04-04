@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/varun-kaladharan1995/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/varun-kaladharan1995/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0075-sort-colors](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/varun-kaladharan1995/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Queue
 |  |
 | ------- |
@@ -67,6 +70,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/varun-kaladharan1995/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
@@ -80,4 +84,12 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/varun-kaladharan1995/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/varun-kaladharan1995/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
