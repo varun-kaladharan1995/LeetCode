@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varun-kaladharan1995/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/varun-kaladharan1995/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varun-kaladharan1995/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/varun-kaladharan1995/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Queue
 |  |
 | ------- |
