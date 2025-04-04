@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,24 @@
 | [0075-sort-colors](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
