@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0041-first-missing-positive) |
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0189-rotate-array) |
@@ -60,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0349-intersection-of-two-arrays) |
