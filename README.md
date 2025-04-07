@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -21,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0349-intersection-of-two-arrays) |
