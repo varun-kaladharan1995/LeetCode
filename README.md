@@ -34,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0075-sort-colors) |
@@ -97,4 +98,12 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/varun-kaladharan1995/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/varun-kaladharan1995/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
